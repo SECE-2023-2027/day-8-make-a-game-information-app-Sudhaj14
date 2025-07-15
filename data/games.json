@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Block Blast",
+    "poster": "/block-blast.jpg",
+    "releaseYear": "2023",
+    "developer": "Hungry Studio",
+    "category": "Puzzle"
+  },
+  {
+    "id": 2,
+    "name": "Drive Mad",
+    "poster": "/drive-mad.jpg",
+    "releaseYear": "2022",
+    "developer": "Martin Magni",
+    "category": "Driving"
+  },
+  {
+    "id": 3,
+    "name": "My Perfect Hotel",
+    "poster": "/my-perfect-hotel.jpg",
+    "releaseYear": "2023",
+    "developer": "SayGames Ltd",
+    "category": "Simulation"
+  },
+  {
+    "id": 4,
+    "name": "Level Devil - NOT A Troll Game",
+    "poster": "/level-devil.jpg",
+    "releaseYear": "2023",
+    "developer": "Pixel Dash",
+    "category": "Platformer"
+  },
+  {
+    "id": 5,
+    "name": "Moto X3M Bike Race Game",
+    "poster": "/moto-x3m.jpg",
+    "releaseYear": "2021",
+    "developer": "Madpuffers",
+    "category": "Racing"
+  }
+]
